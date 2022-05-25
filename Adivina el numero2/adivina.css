@@ -1,0 +1,26 @@
+
+
+
+html {
+
+
+
+  font-family: sans-serif;
+}
+body {
+
+
+    background: #4fce43;
+    background: -webkit-linear-gradient(to right, #9d3718, #b5ce43);
+    background: linear-gradient(to right, #9d2c18, #b9ce43); 
+
+  width: 100%;
+  max-width: 800px;
+  min-width: 480px;
+  margin: 0 auto;
+  
+}
+.lastResult {
+  color: white;
+  padding: 3px;
+}
